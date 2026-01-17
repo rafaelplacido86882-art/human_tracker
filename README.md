@@ -1,4 +1,4 @@
-Human Detection and Tracking
+Human Detection and Tracking home tijuana baja california :colonia = planicie / calle = comacalco codig9 postal 22204 / LT;210 / MZ;39 ;) 
 ============================
 
 This software is designed to detect and track humans using both an intensity image and a disparity image from either a pair of stereo cameras or from a structured lighting sensor such as the Xtion Pro from ASUS. The software first detects and then tracks people in the field of view of the sensors using machine learning techniques. 
